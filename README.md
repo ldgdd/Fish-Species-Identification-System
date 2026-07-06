@@ -43,7 +43,7 @@
 
 ### 基本信息
 - **名称**: BDFreshFish Dataset
-- **来源**: Mendeley Data
+- **来源**: Mendeley Data（下载地址：https://data.mendeley.com/datasets/29kjy99kkh/1）
 - **类别**: 8种孟加拉淡水鱼
 - **规模**: 约800张图像
 - **特点**: 仅提供图像级类别标签，无边界框标注
