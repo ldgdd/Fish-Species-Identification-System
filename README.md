@@ -234,7 +234,7 @@ stage2: YOLOv8m + 模型重标注 → 强化模型
 
 如有任何问题或建议，请通过以下方式联系：
 - **邮箱**: 19299293770@163.com
-- **GitHub Issues**: [项目Issue页面]
+- **GitHub Issues**: https://github.com/ldgdd/Fish-Species-Identification-System/issues/1#issue-4817966609
 
 ---
 
