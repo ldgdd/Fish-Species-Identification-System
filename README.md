@@ -236,7 +236,7 @@ stage2: YOLOv8m + 模型重标注 → 强化模型
 ## 📞 联系方式
 
 如有任何问题或建议，请通过以下方式联系：
-- **邮箱**: [your-email@example.com]
+- **邮箱**: 19299293770@163.com
 - **GitHub Issues**: [项目Issue页面]
 
 ---
